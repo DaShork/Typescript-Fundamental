@@ -6,3 +6,13 @@
   **Ví dụ:**</br>
 
 - Lấy ví dụ với interface Todo ở bài trước, khi chúng ta tạo **1 interface tên là Todo** cũng có nghĩa là ta đã tạo 1 kiểu mới(Type) trong ứng dụng của mình và **tên của kiểu đó là Todo.**
+
+## Các loại Type
+
+**1.Primitive Types(Kiểu Cơ bản):** number, boolean, void, undefined, string, symbol, null.
+**2.Object Types(Kiểu đối tương):** function, array, class, object.
+
+## Vì sao lại phải quan tâm đến kiểu (Types)
+
+**1. Types được trình biên dịch Typescript sử dụng để phân tích code và tìm lỗi.**
+**2. Types sẽ giúp các lập trình viên khác hiểu những giá trị nào đang được định nghĩa và truyền đi bên trong Code Base của chúng ta**
